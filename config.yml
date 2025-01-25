@@ -1,6 +1,6 @@
 baseURL: "https://tokochiz.github.io/"
-title: ""
-theme: "Virgo"
+title: "tokosite"
+theme: "hugo-blox-builder
 
 params:
   title: "tokochiz"
