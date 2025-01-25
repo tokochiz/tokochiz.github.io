@@ -1,0 +1,25 @@
+baseURL: "https://tokochiz.github.io/"
+title: ""
+theme: "Virgo"
+
+params:
+  title: "tokochiz"
+  description: "tokochi'z website"
+  author: ["tokochiz"]
+  
+  # プロフィール設定
+  profileMode:
+    enabled: true
+    title: "tokochiz"
+    subtitle: "hello, world!"
+    imageUrl: "profile.jpg"  # プロフィール画像のパス
+    imageWidth: 200
+    imageHeight: 200
+    imageTitle: "プロフィール写真"
+
+  # 連絡先情報
+  socialIcons:
+    - name: email
+      url: "mailto:xxxx"
+    - name: github
+      url: "https://github.com/tokochiz"
