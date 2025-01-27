@@ -1,9 +1,10 @@
-+++
+---
 title = "About Me"
 date = 2025-01-26
-draft = true
-+++
+draft = false
+---
 
-Chihiro TOKOYODA
-chihiro.tokoyoda[at]gmail.com
+# Chihiro TOKOYODA
 
+## Contact
+Email: chihiro.tokoyoda[at]gmail.com
