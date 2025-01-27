@@ -13,7 +13,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Chihiro TOKOYODA&#xA;Email: chihiro.tokoyoda[at]gmail.com&lt;/p&gt;&#xA;&lt;p&gt;&amp;#x1f94c;&amp;#x1f94c;&amp;#x1f94c;&amp;#x1f94c;&amp;#x1f94c;&lt;/p&gt;&#xA;&lt;h2 id=&#34;interests&#34;&gt;&#xA;  Interests&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#interests&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cloud Infrastructure &amp;amp; DevOps&lt;/li&gt;&#xA;&lt;li&gt;Programming&lt;/li&gt;&#xA;&lt;li&gt;Curling (Player &amp;amp; Spectator)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;Chihiro TOKOYODA&#xA;Email: chihiro.tokoyoda[at]gmail.com&lt;/p&gt;&#xA;&lt;h2 id=&#34;interests&#34;&gt;&#xA;  Interests&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#interests&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cloud Infrastructure &amp;amp; DevOps&lt;/li&gt;&#xA;&lt;li&gt;Programming&lt;/li&gt;&#xA;&lt;li&gt;Curling (Player &amp;amp; Spectator)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&amp;#x1f94c; &amp;#x1f94c; &amp;#x1f94c; &amp;#x1f94c; &amp;#x1f94c;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact me</title>
@@ -27,7 +27,7 @@
       <link>http://localhost:1313/posts/post1/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/post1/</guid>
-      <description>&lt;p&gt;本日、GitHub PagesとHugoを使用して個人のプロフィールページを開設しました。&#xA;このサイトでは、個人的な活動の記録や趣味の紹介をしたいと思っています。&lt;/p&gt;&#xA;&lt;p&gt;よろしくお願いします。&lt;/p&gt;</description>
+      <description>&lt;p&gt;本日、GitHub PagesとHugoを使用して個人のプロフィールページを開設しました。&#xA;このサイトでは、お仕事の記録や趣味の紹介をしたいと思っています。&lt;/p&gt;&#xA;&lt;p&gt;よろしくお願いします。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>

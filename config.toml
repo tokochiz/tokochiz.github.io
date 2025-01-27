@@ -27,7 +27,7 @@ author = "tokochiz"
 description = "tokochi'z website"
 keywords = "blog, developer, personal, website, tokochiz"
 info = ["ctokoyod", "Infrastructure engineer"]
-avatarURL = "images/icon_tokochiz.jpeg"
+avatarURL = "images/icon_lily2.jpg"
 dateFormat = "January 2, 2006"
 since = 2025
 # Git Commit in Footer, uncomment the line below to enable it
