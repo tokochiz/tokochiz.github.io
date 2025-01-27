@@ -6,7 +6,35 @@
     <description>Recent content on tokochi&#39;z website</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Chihiro TOKOYODA&#xA;Email: chihiro.tokoyoda[at]gmail.com&lt;/p&gt;&#xA;&lt;p&gt;&amp;#x1f94c;&amp;#x1f94c;&amp;#x1f94c;&amp;#x1f94c;&amp;#x1f94c;&lt;/p&gt;&#xA;&lt;h2 id=&#34;interests&#34;&gt;&#xA;  Interests&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#interests&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cloud Infrastructure &amp;amp; DevOps&lt;/li&gt;&#xA;&lt;li&gt;Programming&lt;/li&gt;&#xA;&lt;li&gt;Curling (Player &amp;amp; Spectator)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Contact me</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h1 id=&#34;contact-me&#34;&gt;&#xA;  Contact Me&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#contact-me&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;If you have any questions or just want to get in touch,&#xA;feel free to contact me through the following methods:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; chihiro.tokoyoda[at]gmail.com&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/tokochiz&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tokochiz&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I look forward to hearing from you!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub Pagesでサイトを作ってみた</title>
+      <link>http://localhost:1313/posts/post1/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post1/</guid>
+      <description>&lt;p&gt;本日、GitHub PagesとHugoを使用して個人のプロフィールページを開設しました。&#xA;このサイトでは、個人的な活動の記録や趣味の紹介をしたいと思っています。&lt;/p&gt;&#xA;&lt;p&gt;よろしくお願いします。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;I will compile and document my projects here in the future&amp;#x1f47b;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
